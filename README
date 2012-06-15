@@ -1,3 +1,13 @@
+Hab ich irgendwo gefunden, keine Ahnung was mit der api ist…
+
+            req = urllib2.Request("http://siri.grwh.net/api/")
+
+oder ob man das überhaupt verwenden kann...
+
+
+
+
+
 Siri-Graffiti by: Jonathon Nickols
 
 
